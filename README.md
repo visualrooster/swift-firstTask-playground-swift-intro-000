@@ -1,7 +1,6 @@
 # Variables
-
 ![Oscar Wilde](http://i.imgur.com/Brz1JgI.jpg?1)
-> Be yourself; everyone else is already taken. -[Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde)
+> Be yourself,everyone else is already taken. -[Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde)
 
 ## Overview
 
